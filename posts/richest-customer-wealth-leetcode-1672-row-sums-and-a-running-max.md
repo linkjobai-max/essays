@@ -2,7 +2,7 @@
 title: "Richest Customer Wealth (LeetCode 1672): Row Sums and a Running Max"
 slug: richest-customer-wealth-leetcode-1672-row-sums-and-a-running-max
 date: 2026-11-04
-published: false
+published: true
 public: true
 ---
 
